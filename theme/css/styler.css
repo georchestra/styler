@@ -60,12 +60,20 @@ h1, h2, h3, h4 {
     background-image: url(../img/magnifier.png);
 }
 
-.x-btn-icon .point {
-    background: transparent url(../img/bullet_orange.png);
+.x-btn .savegeometry {
+    background: transparent url(../img/disk.gif);
 }
-.x-btn-icon .linestring {
-    background: transparent url(../img/line_orange.png);
+
+.x-btn .point, .x-menu-item .point {
+  background: transparent url(../img/bullet_orange.png);
 }
-.x-btn-icon .polygon {
-    background: transparent url(../img/shape_square_orange.png);
+.x-btn .linestring, .x-menu-item .linestring {
+  background: transparent url(../img/line_orange.png);
+}
+.x-btn .polygon, .x-menu-item .polygon {
+  background: transparent url(../img/shape_square_orange.png);
+}
+
+.x-menu-item .database {
+  background: transparent url(../img/database_yellow.png);
 }
