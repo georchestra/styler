@@ -64,6 +64,9 @@
 .x-btn .polygon, .x-menu-item .polygon {
   background: transparent url(../img/shape_square_orange.png);
 }
+.x-btn .circle, .x-menu-item .circle {
+  background: transparent url(../img/circle.png);
+}
 
 .x-menu-item .database {
   background: transparent url(../img/database_yellow.png);
