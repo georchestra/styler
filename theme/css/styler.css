@@ -55,13 +55,13 @@
     background: transparent url(../img/disk.gif);
 }
 
-.x-btn .point, .x-menu-item .point {
+.x-btn .point, .x-btn .multipoint, .x-menu-item .point {
   background: transparent url(../img/bullet_orange.png);
 }
-.x-btn .linestring, .x-menu-item .linestring {
+.x-btn .linestring, .x-btn .multilinestring, .x-menu-item .linestring {
   background: transparent url(../img/line_orange.png);
 }
-.x-btn .polygon, .x-menu-item .polygon {
+.x-btn .polygon, .x-btn .multipolygon, .x-menu-item .polygon {
   background: transparent url(../img/shape_square_orange.png);
 }
 .x-btn .circle, .x-menu-item .circle {
