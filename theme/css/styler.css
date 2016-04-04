@@ -31,6 +31,10 @@
     background-image: url(../img/palette.png);
 }
 
+.x-btn .ops {
+    background-image: url(../img/cog_add.png);
+}
+
 .x-btn .cancel {
     background-image: url(../img/cancel.png);
 }
